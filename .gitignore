@@ -1,2 +1,6 @@
 *.bin
 .env
+translator_env/
+*.pt
+*.dll
+*.lib
